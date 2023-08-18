@@ -1,3 +1,4 @@
+// Create EventListner "SubmitListener.afterSubmit" (will execute after each submit) and add following script code:
 import com.eviware.soapui.impl.rest.support.RestUtils
 
 def rutils = new RestUtils()
